@@ -1,1 +1,1 @@
-print("ICH MAG WÜRMERs")
+print("PETER TRETER GEHT LOS")
