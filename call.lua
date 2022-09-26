@@ -1,1 +1,1 @@
-print("ICH MAG WÜRMER")
+print("ICH MAG WÜRMERs")
